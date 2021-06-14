@@ -1,0 +1,23 @@
+{
+  "name": "book-directory",
+  "version": "1.0.0",
+  "description": "This is a rest api which is capable of handeling GET,POST,UPDATE,PUT and DELETE mtehods. This api is made for keeping a book directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Upesh-Upreti/BookDirectory.git"
+  },
+  "author": "Upesh Upreti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Upesh-Upreti/BookDirectory/issues"
+  },
+  "homepage": "https://github.com/Upesh-Upreti/BookDirectory#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  }
+}
